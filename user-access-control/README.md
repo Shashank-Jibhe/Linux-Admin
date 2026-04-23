@@ -71,9 +71,27 @@ Simulated a real-world enterprise setup where multiple departments require contr
 chmod +x scripts/setup.sh
 sudo ./scripts/setup.sh
 
-✅ Validation
+```
+
+### ✅ Validation
 Dev users can access /projects/dev
 HR users can access /projects/hr
 Cross-access is restricted
 Auditor has read-only access
 New files inherit correct group (setgid working)
+
+---
+
+## 📸 Proof
+
+### Permissions Overview
+![Permissions](screenshots/permissions-overview.png)
+
+### ACL Configuration
+![ACL](screenshots/acl-auditor-access.png)
+
+### setgid Inheritance
+![setgid](screenshots/setgid-inheritance.png)
+
+### Access Restriction
+![Denied](screenshots/access-denied-proof.png)
