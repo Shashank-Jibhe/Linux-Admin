@@ -50,12 +50,12 @@ The script is scheduled using cron:
 ---
 
 ### Cron Job Configuration
-![Cron Job](screenshots/cron-job-config.png)
+![Cron Job](screenshots/cron-running.png)
 
 ---
 
 ### Live Monitoring
-![Live Monitoring](screenshots/live-monitoring.png)
+![Live Monitoring](screenshots/live-log.png)
 
 ---
 
