@@ -12,3 +12,15 @@ Simulates enterprise-level user and permission management:
 - umask tuning
 - ACL for audit access
 - Real-world debugging scenarios
+
+### Shared Access Control
+
+In multi-user Linux environments, it is common for teams to require shared access to files and directories while maintaining security and accountability.
+
+This project demonstrates how to implement shared access control using:
+
+- User groups
+- File permissions (chmod)
+- Ownership management (chown)
+- Access Control Lists (ACLs)
+
