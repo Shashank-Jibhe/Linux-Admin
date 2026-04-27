@@ -34,6 +34,30 @@ The script is scheduled using cron:
 
 ```bash
 * * * * * /home/red/Github/Linux-Admin/system-monitor/scripts/monitor.sh
+```
+---
+
+## 📸 Screenshots
+
+### Script Execution
+![Script Output](screenshots/script-output.png)
+
+---
+
+### Log File Output
+![Log Output](screenshots/log-output.png)
+
+---
+
+### Cron Job Configuration
+![Cron Job](screenshots/cron-job-config.png)
+
+---
+
+### Live Monitoring
+![Live Monitoring](screenshots/live-monitoring.png)
+
+---
 
 ## ⚠️ Notes
 * system.log is excluded using .gitignore
