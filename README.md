@@ -24,3 +24,8 @@ This project demonstrates how to implement shared access control using:
 - Ownership management (chown)
 - Access Control Lists (ACLs)
 
+### 4. System Monitoring & Automation
+- Built a bash script to monitor CPU, memory, and disk usage
+- Implemented alert system based on thresholds
+- Logged system activity to file
+- Automated execution using cron
