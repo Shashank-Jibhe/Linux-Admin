@@ -13,7 +13,7 @@ Simulates enterprise-level user and permission management:
 - ACL for audit access
 - Real-world debugging scenarios
 
-### Shared Access Control
+### 3. Shared Access Control
 
 In multi-user Linux environments, it is common for teams to require shared access to files and directories while maintaining security and accountability.
 
