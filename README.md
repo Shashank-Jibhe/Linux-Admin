@@ -29,3 +29,11 @@ This project demonstrates how to implement shared access control using:
 - Implemented alert system based on thresholds
 - Logged system activity to file
 - Automated execution using cron
+
+### 5. Log Rotation & Cleanup Automation
+- Built a script to rotate and compress logs
+- Implemented timestamp-based archiving
+- Designed retention policy to delete old logs
+- Automated cleanup using cron
+
+
