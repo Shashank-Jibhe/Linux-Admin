@@ -36,4 +36,12 @@ This project demonstrates how to implement shared access control using:
 - Designed retention policy to delete old logs
 - Automated cleanup using cron
 
+### 6. Service Monitoring & Auto-Restart
 
+- Built a bash script to monitor `sshd` service status
+- Automatically restarts the service if it is down
+- Logs normal and failure states
+- Configured root cron for automated service checks
+- Demonstrates basic self-healing system behavior
+
+---

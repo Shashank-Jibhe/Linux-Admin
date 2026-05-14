@@ -131,8 +131,4 @@ Apr 15 20:35:28 hostname sshd-session[7168]: Failed password for user hrusr1 fro
 
 ---
 
-## 📌 Author
-
-Shashank Jibhe  
-Aspiring Cloud / DevOps Engineer
 
